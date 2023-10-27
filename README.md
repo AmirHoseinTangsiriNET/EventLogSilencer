@@ -1,5 +1,5 @@
 # EventLogSilencer
-EventLogSilencer is a PowerShell script designed for red teaming activities to selectively disable Windows Event Logging. By manipulating the registry key responsible for the configuration of the Event Log service, the script effectively prevents new events from being recorded, aiding in stealth and evasive actions.
+EventLogSilencer is a PowerShell script designed for disable Windows Event Logging. By manipulating the registry key responsible for the configuration of the Event Log service, the script effectively prevents new events from being recorded, aiding in stealth and evasive actions.
 
 ### Usage:
 - Run EventLogSilencer to locate and modify the registry path of the EventLog service.
