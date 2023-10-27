@@ -6,7 +6,7 @@ EventLogSilencer is a PowerShell script designed for disable Windows Event Loggi
 - The script changes the ImagePath value to a custom command, rendering the EventLog service unable to start.
 - As a result, event logging is effectively silenced until the registry key is restored.
 <p align="center">
-  <img src="Logo/EventLogSilencer.png" alt="Master">
+  <img src="Img/EventLogSilencer.png" alt="Master">
 </p> 
 ### Caution:
 - EventLogSilencer is intended for educational and red teaming purposes only. Use responsibly and ensure compliance with applicable laws and regulations.
