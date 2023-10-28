@@ -10,7 +10,7 @@ EventLogSilencer is a PowerShell script designed for disable Windows Event Loggi
 - As a result, event logging is effectively silenced until the registry key is restored.
 
 ### Caution:
-- EventLogSilencer is intended for educational and red teaming purposes only. Use responsibly and ensure compliance with applicable laws and regulations.
+- EventLogSilencer is intended for educational. Use responsibly and ensure compliance with applicable laws and regulations.
 - Use in a controlled environment to prevent unintended impact on critical systems.
 
 Disclaimer:
